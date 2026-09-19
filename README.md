@@ -4,6 +4,8 @@ Turn any website into a standalone Android APK with a native app-like experience
 
 The Web-to-APK Builder provides a modern, single-page web interface where you enter your website details, customize app options (permissions, WebView features, branding colors, and app icons), and compile an Android APK locally using Gradle.
 
+> ⭐ **Note:** If you find this project helpful, please consider giving the repository a star! Your support is greatly appreciated.
+
 ---
 
 ## Features
@@ -148,3 +150,10 @@ http://localhost:5000
   Verify that `ANDROID_HOME` or `ANDROID_SDK_ROOT` points to your Android SDK folder (e.g. `C:\Users\<User>\AppData\Local\Android\Sdk`).
 - **Cannot install APK on phone**:
   By default, `assembleDebug` generates an APK signed with standard Android debug credentials that can be sideloaded directly onto any Android device with "Install unknown apps" enabled.
+
+---
+
+## Support & Feedback
+
+If you find this project helpful, please consider **starring the repository** ⭐! Feel free to open an issue or contribute pull requests.
+

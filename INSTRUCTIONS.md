@@ -170,3 +170,8 @@ http://localhost:5000
 ### C. `Release build finished, but no release APK was found`
 * **Cause:** An incomplete build or missing subproject directories.
 * **Fix:** Ensure `android-app-wrapper/node_modules` is populated by running `npm install` inside `android-app-wrapper`.
+
+---
+
+> ⭐ **Note:** If you find this project helpful, please consider **starring the repository** on GitHub!
+
